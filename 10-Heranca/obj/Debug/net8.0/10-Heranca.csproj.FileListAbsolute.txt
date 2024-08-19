@@ -1,0 +1,15 @@
+C:\Users\gatal\Desktop\csharp\10-Heranca\bin\Debug\net8.0\10-Heranca.exe
+C:\Users\gatal\Desktop\csharp\10-Heranca\bin\Debug\net8.0\10-Heranca.deps.json
+C:\Users\gatal\Desktop\csharp\10-Heranca\bin\Debug\net8.0\10-Heranca.runtimeconfig.json
+C:\Users\gatal\Desktop\csharp\10-Heranca\bin\Debug\net8.0\10-Heranca.dll
+C:\Users\gatal\Desktop\csharp\10-Heranca\bin\Debug\net8.0\10-Heranca.pdb
+C:\Users\gatal\Desktop\csharp\10-Heranca\obj\Debug\net8.0\10-Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gatal\Desktop\csharp\10-Heranca\obj\Debug\net8.0\10-Heranca.AssemblyInfoInputs.cache
+C:\Users\gatal\Desktop\csharp\10-Heranca\obj\Debug\net8.0\10-Heranca.AssemblyInfo.cs
+C:\Users\gatal\Desktop\csharp\10-Heranca\obj\Debug\net8.0\10-Heranca.csproj.CoreCompileInputs.cache
+C:\Users\gatal\Desktop\csharp\10-Heranca\obj\Debug\net8.0\10-Heranca.sourcelink.json
+C:\Users\gatal\Desktop\csharp\10-Heranca\obj\Debug\net8.0\10-Heranca.dll
+C:\Users\gatal\Desktop\csharp\10-Heranca\obj\Debug\net8.0\refint\10-Heranca.dll
+C:\Users\gatal\Desktop\csharp\10-Heranca\obj\Debug\net8.0\10-Heranca.pdb
+C:\Users\gatal\Desktop\csharp\10-Heranca\obj\Debug\net8.0\10-Heranca.genruntimeconfig.cache
+C:\Users\gatal\Desktop\csharp\10-Heranca\obj\Debug\net8.0\ref\10-Heranca.dll

@@ -1,0 +1,15 @@
+C:\Users\gatal\Desktop\Estudo\csharp\12-Estatico\bin\Debug\net8.0\12-Estatico.exe
+C:\Users\gatal\Desktop\Estudo\csharp\12-Estatico\bin\Debug\net8.0\12-Estatico.deps.json
+C:\Users\gatal\Desktop\Estudo\csharp\12-Estatico\bin\Debug\net8.0\12-Estatico.runtimeconfig.json
+C:\Users\gatal\Desktop\Estudo\csharp\12-Estatico\bin\Debug\net8.0\12-Estatico.dll
+C:\Users\gatal\Desktop\Estudo\csharp\12-Estatico\bin\Debug\net8.0\12-Estatico.pdb
+C:\Users\gatal\Desktop\Estudo\csharp\12-Estatico\obj\Debug\net8.0\12-Estatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gatal\Desktop\Estudo\csharp\12-Estatico\obj\Debug\net8.0\12-Estatico.AssemblyInfoInputs.cache
+C:\Users\gatal\Desktop\Estudo\csharp\12-Estatico\obj\Debug\net8.0\12-Estatico.AssemblyInfo.cs
+C:\Users\gatal\Desktop\Estudo\csharp\12-Estatico\obj\Debug\net8.0\12-Estatico.csproj.CoreCompileInputs.cache
+C:\Users\gatal\Desktop\Estudo\csharp\12-Estatico\obj\Debug\net8.0\12-Estatico.sourcelink.json
+C:\Users\gatal\Desktop\Estudo\csharp\12-Estatico\obj\Debug\net8.0\12-Estatico.dll
+C:\Users\gatal\Desktop\Estudo\csharp\12-Estatico\obj\Debug\net8.0\refint\12-Estatico.dll
+C:\Users\gatal\Desktop\Estudo\csharp\12-Estatico\obj\Debug\net8.0\12-Estatico.pdb
+C:\Users\gatal\Desktop\Estudo\csharp\12-Estatico\obj\Debug\net8.0\12-Estatico.genruntimeconfig.cache
+C:\Users\gatal\Desktop\Estudo\csharp\12-Estatico\obj\Debug\net8.0\ref\12-Estatico.dll

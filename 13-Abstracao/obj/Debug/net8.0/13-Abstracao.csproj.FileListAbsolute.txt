@@ -1,0 +1,15 @@
+C:\Users\gatal\Desktop\Estudo\csharp\13-Abstracao\bin\Debug\net8.0\13-Abstracao.exe
+C:\Users\gatal\Desktop\Estudo\csharp\13-Abstracao\bin\Debug\net8.0\13-Abstracao.deps.json
+C:\Users\gatal\Desktop\Estudo\csharp\13-Abstracao\bin\Debug\net8.0\13-Abstracao.runtimeconfig.json
+C:\Users\gatal\Desktop\Estudo\csharp\13-Abstracao\bin\Debug\net8.0\13-Abstracao.dll
+C:\Users\gatal\Desktop\Estudo\csharp\13-Abstracao\bin\Debug\net8.0\13-Abstracao.pdb
+C:\Users\gatal\Desktop\Estudo\csharp\13-Abstracao\obj\Debug\net8.0\13-Abstracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gatal\Desktop\Estudo\csharp\13-Abstracao\obj\Debug\net8.0\13-Abstracao.AssemblyInfoInputs.cache
+C:\Users\gatal\Desktop\Estudo\csharp\13-Abstracao\obj\Debug\net8.0\13-Abstracao.AssemblyInfo.cs
+C:\Users\gatal\Desktop\Estudo\csharp\13-Abstracao\obj\Debug\net8.0\13-Abstracao.csproj.CoreCompileInputs.cache
+C:\Users\gatal\Desktop\Estudo\csharp\13-Abstracao\obj\Debug\net8.0\13-Abstracao.sourcelink.json
+C:\Users\gatal\Desktop\Estudo\csharp\13-Abstracao\obj\Debug\net8.0\13-Abstracao.dll
+C:\Users\gatal\Desktop\Estudo\csharp\13-Abstracao\obj\Debug\net8.0\refint\13-Abstracao.dll
+C:\Users\gatal\Desktop\Estudo\csharp\13-Abstracao\obj\Debug\net8.0\13-Abstracao.pdb
+C:\Users\gatal\Desktop\Estudo\csharp\13-Abstracao\obj\Debug\net8.0\13-Abstracao.genruntimeconfig.cache
+C:\Users\gatal\Desktop\Estudo\csharp\13-Abstracao\obj\Debug\net8.0\ref\13-Abstracao.dll

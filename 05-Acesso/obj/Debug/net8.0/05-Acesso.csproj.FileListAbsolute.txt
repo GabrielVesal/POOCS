@@ -1,0 +1,15 @@
+C:\Users\gatal\Desktop\Estudo\csharp\05-Acesso\bin\Debug\net8.0\05-Acesso.exe
+C:\Users\gatal\Desktop\Estudo\csharp\05-Acesso\bin\Debug\net8.0\05-Acesso.deps.json
+C:\Users\gatal\Desktop\Estudo\csharp\05-Acesso\bin\Debug\net8.0\05-Acesso.runtimeconfig.json
+C:\Users\gatal\Desktop\Estudo\csharp\05-Acesso\bin\Debug\net8.0\05-Acesso.dll
+C:\Users\gatal\Desktop\Estudo\csharp\05-Acesso\bin\Debug\net8.0\05-Acesso.pdb
+C:\Users\gatal\Desktop\Estudo\csharp\05-Acesso\obj\Debug\net8.0\05-Acesso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gatal\Desktop\Estudo\csharp\05-Acesso\obj\Debug\net8.0\05-Acesso.AssemblyInfoInputs.cache
+C:\Users\gatal\Desktop\Estudo\csharp\05-Acesso\obj\Debug\net8.0\05-Acesso.AssemblyInfo.cs
+C:\Users\gatal\Desktop\Estudo\csharp\05-Acesso\obj\Debug\net8.0\05-Acesso.csproj.CoreCompileInputs.cache
+C:\Users\gatal\Desktop\Estudo\csharp\05-Acesso\obj\Debug\net8.0\05-Acesso.sourcelink.json
+C:\Users\gatal\Desktop\Estudo\csharp\05-Acesso\obj\Debug\net8.0\05-Acesso.dll
+C:\Users\gatal\Desktop\Estudo\csharp\05-Acesso\obj\Debug\net8.0\refint\05-Acesso.dll
+C:\Users\gatal\Desktop\Estudo\csharp\05-Acesso\obj\Debug\net8.0\05-Acesso.pdb
+C:\Users\gatal\Desktop\Estudo\csharp\05-Acesso\obj\Debug\net8.0\05-Acesso.genruntimeconfig.cache
+C:\Users\gatal\Desktop\Estudo\csharp\05-Acesso\obj\Debug\net8.0\ref\05-Acesso.dll

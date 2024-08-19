@@ -1,0 +1,15 @@
+C:\Users\gatal\Desktop\csharp\03-ExercicioEscolar\obj\Debug\net8.0\03-ExercicioEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gatal\Desktop\csharp\03-ExercicioEscolar\obj\Debug\net8.0\03-ExercicioEscolar.AssemblyInfoInputs.cache
+C:\Users\gatal\Desktop\csharp\03-ExercicioEscolar\obj\Debug\net8.0\03-ExercicioEscolar.AssemblyInfo.cs
+C:\Users\gatal\Desktop\csharp\03-ExercicioEscolar\obj\Debug\net8.0\03-ExercicioEscolar.csproj.CoreCompileInputs.cache
+C:\Users\gatal\Desktop\csharp\03-ExercicioEscolar\obj\Debug\net8.0\03-ExercicioEscolar.sourcelink.json
+C:\Users\gatal\Desktop\csharp\03-ExercicioEscolar\bin\Debug\net8.0\03-ExercicioEscolar.exe
+C:\Users\gatal\Desktop\csharp\03-ExercicioEscolar\bin\Debug\net8.0\03-ExercicioEscolar.deps.json
+C:\Users\gatal\Desktop\csharp\03-ExercicioEscolar\bin\Debug\net8.0\03-ExercicioEscolar.runtimeconfig.json
+C:\Users\gatal\Desktop\csharp\03-ExercicioEscolar\bin\Debug\net8.0\03-ExercicioEscolar.dll
+C:\Users\gatal\Desktop\csharp\03-ExercicioEscolar\bin\Debug\net8.0\03-ExercicioEscolar.pdb
+C:\Users\gatal\Desktop\csharp\03-ExercicioEscolar\obj\Debug\net8.0\03-ExercicioEscolar.dll
+C:\Users\gatal\Desktop\csharp\03-ExercicioEscolar\obj\Debug\net8.0\refint\03-ExercicioEscolar.dll
+C:\Users\gatal\Desktop\csharp\03-ExercicioEscolar\obj\Debug\net8.0\03-ExercicioEscolar.pdb
+C:\Users\gatal\Desktop\csharp\03-ExercicioEscolar\obj\Debug\net8.0\03-ExercicioEscolar.genruntimeconfig.cache
+C:\Users\gatal\Desktop\csharp\03-ExercicioEscolar\obj\Debug\net8.0\ref\03-ExercicioEscolar.dll

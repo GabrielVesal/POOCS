@@ -1,0 +1,15 @@
+C:\Users\gatal\Desktop\csharp\04-ExercicioIMC\bin\Debug\net8.0\04-ExercicioIMC.exe
+C:\Users\gatal\Desktop\csharp\04-ExercicioIMC\bin\Debug\net8.0\04-ExercicioIMC.deps.json
+C:\Users\gatal\Desktop\csharp\04-ExercicioIMC\bin\Debug\net8.0\04-ExercicioIMC.runtimeconfig.json
+C:\Users\gatal\Desktop\csharp\04-ExercicioIMC\bin\Debug\net8.0\04-ExercicioIMC.dll
+C:\Users\gatal\Desktop\csharp\04-ExercicioIMC\bin\Debug\net8.0\04-ExercicioIMC.pdb
+C:\Users\gatal\Desktop\csharp\04-ExercicioIMC\obj\Debug\net8.0\04-ExercicioIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gatal\Desktop\csharp\04-ExercicioIMC\obj\Debug\net8.0\04-ExercicioIMC.AssemblyInfoInputs.cache
+C:\Users\gatal\Desktop\csharp\04-ExercicioIMC\obj\Debug\net8.0\04-ExercicioIMC.AssemblyInfo.cs
+C:\Users\gatal\Desktop\csharp\04-ExercicioIMC\obj\Debug\net8.0\04-ExercicioIMC.csproj.CoreCompileInputs.cache
+C:\Users\gatal\Desktop\csharp\04-ExercicioIMC\obj\Debug\net8.0\04-ExercicioIMC.sourcelink.json
+C:\Users\gatal\Desktop\csharp\04-ExercicioIMC\obj\Debug\net8.0\04-ExercicioIMC.dll
+C:\Users\gatal\Desktop\csharp\04-ExercicioIMC\obj\Debug\net8.0\refint\04-ExercicioIMC.dll
+C:\Users\gatal\Desktop\csharp\04-ExercicioIMC\obj\Debug\net8.0\04-ExercicioIMC.pdb
+C:\Users\gatal\Desktop\csharp\04-ExercicioIMC\obj\Debug\net8.0\04-ExercicioIMC.genruntimeconfig.cache
+C:\Users\gatal\Desktop\csharp\04-ExercicioIMC\obj\Debug\net8.0\ref\04-ExercicioIMC.dll

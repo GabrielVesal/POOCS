@@ -1,0 +1,15 @@
+C:\Users\gatal\Desktop\csharp\02-conceitos\obj\Debug\net8.0\02-conceitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gatal\Desktop\csharp\02-conceitos\obj\Debug\net8.0\02-conceitos.AssemblyInfoInputs.cache
+C:\Users\gatal\Desktop\csharp\02-conceitos\obj\Debug\net8.0\02-conceitos.AssemblyInfo.cs
+C:\Users\gatal\Desktop\csharp\02-conceitos\obj\Debug\net8.0\02-conceitos.csproj.CoreCompileInputs.cache
+C:\Users\gatal\Desktop\csharp\02-conceitos\obj\Debug\net8.0\02-conceitos.sourcelink.json
+C:\Users\gatal\Desktop\csharp\02-conceitos\bin\Debug\net8.0\02-conceitos.exe
+C:\Users\gatal\Desktop\csharp\02-conceitos\bin\Debug\net8.0\02-conceitos.deps.json
+C:\Users\gatal\Desktop\csharp\02-conceitos\bin\Debug\net8.0\02-conceitos.runtimeconfig.json
+C:\Users\gatal\Desktop\csharp\02-conceitos\bin\Debug\net8.0\02-conceitos.dll
+C:\Users\gatal\Desktop\csharp\02-conceitos\bin\Debug\net8.0\02-conceitos.pdb
+C:\Users\gatal\Desktop\csharp\02-conceitos\obj\Debug\net8.0\02-conceitos.dll
+C:\Users\gatal\Desktop\csharp\02-conceitos\obj\Debug\net8.0\refint\02-conceitos.dll
+C:\Users\gatal\Desktop\csharp\02-conceitos\obj\Debug\net8.0\02-conceitos.pdb
+C:\Users\gatal\Desktop\csharp\02-conceitos\obj\Debug\net8.0\02-conceitos.genruntimeconfig.cache
+C:\Users\gatal\Desktop\csharp\02-conceitos\obj\Debug\net8.0\ref\02-conceitos.dll
